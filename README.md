@@ -1,38 +1,33 @@
-# Frontend Mentor - QR code component solution
+# 📱 QR Code Component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Repositório dedicado ao exercício ["QR Code Component"](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do site [Frontend Mentor](https://www.frontendmentor.io).
 
-## Table of contents
+## 🎯Desafio
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+"A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet."
 
+*(Um primeiro desafio perfeito se for novo em HTML e CSS. A disposição dos cartões não se altera, pelo que é ideal se ainda não aprendeu a criar disposições reactivas.)*
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+### ⚒️ Tecnologias utilizadas 
+- HTML5
+- CSS3
 
-## Overview
+### 🤩 Resultado
 
-### Screenshot
+- [Confira aqui o resultado!](https://fem-vn-qr-code-component.netlify.app)
 
-![](./design/solution-screenshot.png)
+### 📸 Screenshots
 
-### Links
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Desktop:</summary>
+  
+  <img src="./solution/solution-desktop-screenshot.png" alt="Desktop solution screenshot" style="width: 400px;"></img>
+     
+</details>
 
-- Live Site URL: [https://nuzzi-qr-code-component.netlify.app/](https://nuzzi-qr-code-component.netlify.app/)
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Mobile:</summary>
+  
+  <img src="./solution/solution-mobile-screenshot.png" alt="Mobile solution screenshot" style="height: 400px;"></img>
 
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-
-## Author
-
-- Website - [...]()
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+</details>
